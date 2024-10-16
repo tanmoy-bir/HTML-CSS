@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero {
+    background-image: url('../images/Clock.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+
+}
+
+.hero h1 {
+    color: antiquewhite;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 900;
+    padding-top: 60px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
